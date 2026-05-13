@@ -1,0 +1,19 @@
+[
+  {
+    "created_at": "2026-05-13T14:43:38.401813",
+    "invoice_id": "INV-0748",
+    "client_name": "Jeffery Myers PhD",
+    "client_email": "joneswilliam@example.org",
+    "amount": 6781.66,
+    "currency": "EUR",
+    "days_overdue": 120,
+    "escalation_stage": 4,
+    "escalation_label": "Final / Legal Warning",
+    "email_subject": "FINAL NOTICE: Invoice INV-0748 \u2014 Legal Action Pending in 48 Hours",
+    "email_body": "Dear Christopher Wheeler DDS,\n\nThis is a final notice regarding invoice INV-0748 for \u20ac6,781.66, now 120 days overdue. We have sent 1 prior communications, none of which have received a response.\n\nUnless full payment is received within 48 hours of this notice, your account will be referred to our legal and collections department. This may result in additional costs and formal legal proceedings being initiated.\n\nTo resolve this matter immediately, please contact us today without delay.\n\nYours sincerely,\nAdministrator\nCredit Control Department",
+    "send_status": "dry_run",
+    "send_error": null,
+    "model_used": "mock (API fallback)",
+    "session_id": "1ba2fbf9"
+  }
+]
