@@ -1,3 +1,7 @@
+DEMO LINK : https://financereminder.streamlit.app/
+
+
+
 # 💳 AI Finance Credit Follow-Up Agent
 
 A production-ready AI-powered email agent that automatically detects overdue invoices, determines escalation urgency, and generates personalised follow-up emails using GPT-4o via LangChain.
