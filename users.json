@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password_hash": "pbkdf2$217bc60e31ddd42d901f26ef50096016$8f6e14403aabf6c33003c3185361ad27a0aaa2af802d87d88f48afe9c2eafad2",
+    "role": "admin",
+    "created_at": "2026-05-10T13:47:13.194908",
+    "full_name": "Administrator"
+  },
+  "anshuman": {
+    "password_hash": "47e4bb72a832ad05cfad427b229b5a7dad0e299f4271c5b3db5e4bf49f43ee92",
+    "role": "viewer",
+    "full_name": "Anshuman",
+    "created_at": "2026-05-11T14:51:18.981745"
+  }
+}
